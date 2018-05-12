@@ -1,0 +1,34 @@
+_repo: Six-Thousand-Country-Churches_33587
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gill, Charles Otis
+    birthdate: 1868
+    gutenberg_agent_id: '36484'
+    url: http://www.gutenberg.org/2009/agents/36484
+  - agent_name: Pinchot, Gifford
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '3896'
+    url: http://www.gutenberg.org/2009/agents/3896
+    wikipedia: http://en.wikipedia.org/wiki/Gifford_Pinchot
+description: ''
+gutenberg_issued: '2010-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33587'
+  lccn: '19017903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sociology, Rural'
+- !lcsh 'Rural churches -- Ohio'
+- !lcsh 'Social surveys -- Ohio'
+title: Six Thousand Country Churches
+url: http://www.gutenberg.org/ebooks/33587
